@@ -3,7 +3,7 @@
 
 // var string="Pinky Mehta";
 // var i=0;
-// for(i=0;i<string.lenght();i++){
+// for(i=0;i<string.lenght;i++){
 // console.log(i);
 // }
 // console.log("\n");
