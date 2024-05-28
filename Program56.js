@@ -3,6 +3,6 @@
 var a = 20;
 var b = 30;
 
-    var sum = a+b;
+    var sum = a+b-a;
 
 console.log(sum);
