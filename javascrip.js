@@ -14,5 +14,5 @@ ans  toLowerCase()
 
 // remove an attribute from each of the matched elements?
 
-ans  removeAttr()
+ans  removeAttr(loo)
 
